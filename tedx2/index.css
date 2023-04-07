@@ -1,0 +1,63 @@
+.logo-img{
+    height: 25px;
+   
+
+}
+.navText{
+    color: black;
+    font-weight: bolder;
+}
+a{
+    color: black;
+}
+.btn1{
+    background-color: red;
+
+}
+.cleft{
+    background-color: #FCEAA7;
+    padding-top: 110px;
+    padding-bottom: 110px;
+   
+}
+.cright{
+    background-color: #FFCD00;
+}
+.img2{
+    height: 50vh;
+}
+.accbox{
+    background-color: #FFCD00;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 50px;
+    padding-bottom: 40px;
+
+}
+.inneracc{
+    background-color: #FCEAA7;
+}
+.imgcorouse{
+    height: 107px;
+}
+.headtextcorouse{
+    padding: 80px 0px 20px 115px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+.footer1{
+    display: flex;
+    gap: 40px;
+    line-height: 40px;
+}
+ul{
+    list-style-type: none;
+}
+.tedwhite{
+    height: 40px;
+    width: 70px;
+    margin: 50px 30px;
+}
+.googlelogo{
+    width: 100px;
+}
